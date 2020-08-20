@@ -6,5 +6,6 @@ Library UI Concept inspiration from dribbble
 Dribble image:
 ![Dribble picture inspiration](https://static.dribbble.com/users/702789/screenshots/6903441/atach_4x.png)
 Result:
-![](https://raw.githubusercontent.com/Ysparky/Library-UI/master/screens_result/splash_1_screen.png)
-![](https://raw.githubusercontent.com/Ysparky/Library-UI/master/screens_result/splash_2_screen.png)
+
+<img src="https://raw.githubusercontent.com/Ysparky/Library-UI/master/screens_result/splash_1_screen.png" height="450" />
+<img src="https://raw.githubusercontent.com/Ysparky/Library-UI/master/screens_result/splash_2_screen.png" height="450" />
